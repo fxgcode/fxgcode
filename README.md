@@ -28,33 +28,25 @@
   <img align="center" alt="FXGCode" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FXGCode&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
+<br>
 <!-- Conectate conmigo -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
-  </ul>
+<div  align="center">
+<h2>Conectate conmigo 🤝</h2>
+
+<a href="https://www.linkedin.com/in/fabian-guerrero-1a945018a/" target="_blank"  align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61566262882169" target="_blank"  align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40"/>
+</a>
+
+<a href="https://www.instagram.com/fxgcode/" target="_blank"  align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40"/>
+</a>
+
+<a href="https://www.tiktok.com/@fxgcode?is_from_webapp=1&sender_device=pc" target="_blank"  align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40"/>
+</a>
 </div>
-
-<!-- Icons and links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabian-guerrero-1a945018a/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-
-  <a href="https://www.facebook.com/fxgcode" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981541-5e627d6c-06b2-4f9a-8a3c-8c7c5d8ddbf8.png" alt="facebook" height="50" width="50" />
-  </a>
-
-  <a href="https://www.instagram.com/fxgcode/" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-
-  <a href="https://www.tiktok.com/@fxgcode" target="_blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981871-c2f01558-7d3e-4b36-a0c4-3378fdd80c72.png" alt="tiktok" height="50" width="50" />
-  </a>
-</p>
-
-</p>
-
 
